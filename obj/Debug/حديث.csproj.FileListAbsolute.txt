@@ -1,0 +1,9 @@
+F:\projects\حديث\حديث\bin\Debug\حديث.exe.config
+F:\projects\حديث\حديث\bin\Debug\حديث.exe
+F:\projects\حديث\حديث\bin\Debug\حديث.pdb
+F:\projects\حديث\حديث\obj\Debug\حديث.csprojResolveAssemblyReference.cache
+F:\projects\حديث\حديث\obj\Debug\حديث.Form1.resources
+F:\projects\حديث\حديث\obj\Debug\حديث.Properties.Resources.resources
+F:\projects\حديث\حديث\obj\Debug\حديث.csproj.GenerateResource.Cache
+F:\projects\حديث\حديث\obj\Debug\حديث.exe
+F:\projects\حديث\حديث\obj\Debug\حديث.pdb
